@@ -1,5 +1,5 @@
 <h1 align="center">
-   👋 Hey there, I am Tanusri Bhowmick
+   <img src="./Wave.gif" width="29px"> Hey there, I am Tanusri Bhowmick
 </h1>
 
 <p align="center">
