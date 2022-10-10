@@ -8,7 +8,7 @@
 
 <hr>
 
-I am a student at the University of North Carolina, Charlotte. My interest lies in the branch of data science and the fields included in it like data visualization, and data privacy. Currently research assistant for Dr. Liyue Fan in data privacy working on the data privacy attacks on machine learning models using interpretability
+<p align="center">I am a student at the University of North Carolina, Charlotte. My interest lies in the branch of data science and the fields included in it like data visualization, and data privacy. Currently research assistant for Dr. Liyue Fan in data privacy working on the data privacy attacks on machine learning models using interpretability.</p>
 
 <hr>
 
