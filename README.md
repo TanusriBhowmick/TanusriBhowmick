@@ -8,7 +8,7 @@
 
 <hr>
 
-<p align="center">I am a student at the University of North Carolina, Charlotte. My interest lies in the branch of web development but I have honed my skills in more fields as well. Currently research assistant for Dr. Aidong Lu in data visualization working on employing Unity to enable users to navigate various visualizations, assessing the recorded observations to grasp behavioral patterns, and gaining a more profound insight into human-machine communications.</p>
+<p align="center">I am a student at the University of North Carolina, Charlotte. My interest lies in the branch of web development but I have honed my skills in many fields. Currently research assistant for Dr. Aidong Lu in data visualization working on employing Unity to enable users to navigate various visualizations, assessing the recorded observations to grasp behavioral patterns, and gaining a more profound insight into human-machine communications.</p>
 
 <hr>
 
