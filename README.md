@@ -18,9 +18,6 @@ My work spans mobile product development, experimentation, Android architecture,
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tanusri-bhowmick) 
 [<img src="https://img.shields.io/badge/-email-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:tanusribhowmick0@gmail.com) 
-<img src="https://img.shields.io/badge/Windows%2010-dell%20G%2015-%23bc0024.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/intel-core%20i7%2012700H-%230071c5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-<img src="https://img.shields.io/badge/nvidia-rtx%203060-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 <hr>
 
 ![Tanusri's github stats](https://github-readme-stats.vercel.app/api?username=TanusriBhowmick&theme=dracula&count_private=true&show_icons=true&include_all_commits=true?line_height=24)
