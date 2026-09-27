@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src="./Wave.gif" width="29px"> Hey there, I am Tanusri Bhowmick
+   <img src="./Wave.gif" width="29px"> Hey there, I am Tani
 </h1>
 
 <p align="center">
@@ -8,7 +8,9 @@
 
 <hr>
 
-<p align="center">I am a student at the University of North Carolina, Charlotte. My interest lies in the branch of web development but I have honed my skills in many fields. Currently research assistant for Dr. Aidong Lu in data visualization working on employing Unity to enable users to navigate various visualizations, assessing the recorded observations to grasp behavioral patterns, and gaining a more profound insight into human-machine communications.</p>
+<p align="center">
+I’m an Android-focused software engineer at Intuit Credit Karma, building fintech mobile experiences with Kotlin. I focus on creating seamless user experiences and building products that help members better understand their finances and make informed financial decisions.
+My work spans mobile product development, experimentation, Android architecture, and AI-assisted tooling. I hold an M.S. in Computer Science from UNC Charlotte, where my research included data visualization using Unity to study how users navigate visualizations and analyze interaction patterns, as well as data privacy in machine learning through interpretability.</p>
 
 <hr>
 
