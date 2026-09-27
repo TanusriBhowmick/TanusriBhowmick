@@ -20,14 +20,12 @@ My work spans mobile product development, experimentation, Android architecture,
 [<img src="https://img.shields.io/badge/-email-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:tanusribhowmick0@gmail.com) 
 <hr>
 
-![Tanusri's github stats](https://github-readme-stats.vercel.app/api?username=TanusriBhowmick&theme=dracula&count_private=true&show_icons=true&include_all_commits=true?line_height=24)
-![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=TanusriBhowmick&theme=dracula&layout=compact&langs_count=8)
-
 <h3 align="center">Technologies that I have worked with</h3>
 <hr>
 <img src="https://img.shields.io/badge/c%20-%230080ff.svg?&style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-%23f89820.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/python%20-%234b8bbe.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
